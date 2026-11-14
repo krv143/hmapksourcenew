@@ -1,0 +1,250 @@
+[
+  {
+    "StateId": 1,
+    "StateName": "Andhra Pradesh",
+    "Districts": [
+      {
+        "DistrictId": 101,
+        "DistrictName": "Srikakulam"
+      },
+      {
+        "DistrictId": 102,
+        "DistrictName": "Parvathipuram Manyam"
+      },
+      {
+        "DistrictId": 103,
+        "DistrictName": "Vizianagaram"
+      },
+      {
+        "DistrictId": 104,
+        "DistrictName": "Visakhapatnam"
+      },
+      {
+        "DistrictId": 105,
+        "DistrictName": "Alluri Sitharama Raju"
+      },
+      {
+        "DistrictId": 106,
+        "DistrictName": "Anakapalli"
+      },
+      {
+        "DistrictId": 107,
+        "DistrictName": "Kakinada"
+      },
+      {
+        "DistrictId": 108,
+        "DistrictName": "Dr. B. R. Ambedkar Konaseema"
+      },
+      {
+        "DistrictId": 109,
+        "DistrictName": "East Godavari"
+      },
+      {
+        "DistrictId": 110,
+        "DistrictName": "West Godavari"
+      },
+      {
+        "DistrictId": 111,
+        "DistrictName": "Eluru"
+      },
+      {
+        "DistrictId": 112,
+        "DistrictName": "Krishna"
+      },
+      {
+        "DistrictId": 113,
+        "DistrictName": "NTR"
+      },
+      {
+        "DistrictId": 114,
+        "DistrictName": "Guntur"
+      },
+      {
+        "DistrictId": 115,
+        "DistrictName": "Palnadu"
+      },
+      {
+        "DistrictId": 116,
+        "DistrictName": "Bapatla"
+      },
+      {
+        "DistrictId": 117,
+        "DistrictName": "Prakasam"
+      },
+      {
+        "DistrictId": 118,
+        "DistrictName": "Sri Potti Sriramulu Nellore"
+      },
+      {
+        "DistrictId": 119,
+        "DistrictName": "Chittoor"
+      },
+      {
+        "DistrictId": 120,
+        "DistrictName": "Tirupati"
+      },
+      {
+        "DistrictId": 121,
+        "DistrictName": "Annamayya"
+      },
+      {
+        "DistrictId": 122,
+        "DistrictName": "YSR Kadapa"
+      },
+      {
+        "DistrictId": 123,
+        "DistrictName": "Ananthapuramu"
+      },
+      {
+        "DistrictId": 124,
+        "DistrictName": "Sri Sathya Sai"
+      },
+      {
+        "DistrictId": 125,
+        "DistrictName": "Kurnool"
+      },
+      {
+        "DistrictId": 126,
+        "DistrictName": "Nandyal"
+      }
+    ]
+  },
+  {
+    "StateId": 2,
+    "StateName": "Telangana",
+    "Districts": [
+      {
+        "DistrictId": 201,
+        "DistrictName": "Adilabad"
+      },
+      {
+        "DistrictId": 202,
+        "DistrictName": "Bhadradri Kothagudem"
+      },
+      {
+        "DistrictId": 203,
+        "DistrictName": "Hanamkonda"
+      },
+      {
+        "DistrictId": 204,
+        "DistrictName": "Hyderabad"
+      },
+      {
+        "DistrictId": 205,
+        "DistrictName": "Jagtial"
+      },
+      {
+        "DistrictId": 206,
+        "DistrictName": "Jangaon"
+      },
+      {
+        "DistrictId": 207,
+        "DistrictName": "Jayashankar Bhupalpally"
+      },
+      {
+        "DistrictId": 208,
+        "DistrictName": "Jogulamba Gadwal"
+      },
+      {
+        "DistrictId": 209,
+        "DistrictName": "Kamareddy"
+      },
+      {
+        "DistrictId": 210,
+        "DistrictName": "Karimnagar"
+      },
+      {
+        "DistrictId": 211,
+        "DistrictName": "Khammam"
+      },
+      {
+        "DistrictId": 212,
+        "DistrictName": "Kumuram Bheem Asifabad"
+      },
+      {
+        "DistrictId": 213,
+        "DistrictName": "Mahabubabad"
+      },
+      {
+        "DistrictId": 214,
+        "DistrictName": "Mahbubnagar"
+      },
+      {
+        "DistrictId": 215,
+        "DistrictName": "Mancherial"
+      },
+      {
+        "DistrictId": 216,
+        "DistrictName": "Medak"
+      },
+      {
+        "DistrictId": 217,
+        "DistrictName": "Medchal-Malkajgiri"
+      },
+      {
+        "DistrictId": 218,
+        "DistrictName": "Mulugu"
+      },
+      {
+        "DistrictId": 219,
+        "DistrictName": "Nagarkurnool"
+      },
+      {
+        "DistrictId": 220,
+        "DistrictName": "Nalgonda"
+      },
+      {
+        "DistrictId": 221,
+        "DistrictName": "Narayanpet"
+      },
+      {
+        "DistrictId": 222,
+        "DistrictName": "Nirmal"
+      },
+      {
+        "DistrictId": 223,
+        "DistrictName": "Nizamabad"
+      },
+      {
+        "DistrictId": 224,
+        "DistrictName": "Peddapalli"
+      },
+      {
+        "DistrictId": 225,
+        "DistrictName": "Rajanna Sircilla"
+      },
+      {
+        "DistrictId": 226,
+        "DistrictName": "Rangareddy"
+      },
+      {
+        "DistrictId": 227,
+        "DistrictName": "Sangareddy"
+      },
+      {
+        "DistrictId": 228,
+        "DistrictName": "Siddipet"
+      },
+      {
+        "DistrictId": 229,
+        "DistrictName": "Suryapet"
+      },
+      {
+        "DistrictId": 230,
+        "DistrictName": "Vikarabad"
+      },
+      {
+        "DistrictId": 231,
+        "DistrictName": "Wanaparthy"
+      },
+      {
+        "DistrictId": 232,
+        "DistrictName": "Warangal"
+      },
+      {
+        "DistrictId": 233,
+        "DistrictName": "Yadadri Bhuvanagiri"
+      }
+    ]
+  }
+]
