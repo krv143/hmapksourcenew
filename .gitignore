@@ -1,0 +1,11 @@
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+.idea/
+*.iml
+.env
+*.jks
+key.properties
+handyman_agent/apks/
+handyman_agent/__pycache__/
